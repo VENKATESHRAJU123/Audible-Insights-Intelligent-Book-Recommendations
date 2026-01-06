@@ -1,0 +1,46 @@
+======================================================================
+EXPLORATORY DATA ANALYSIS - SUMMARY REPORT
+======================================================================
+
+1. DATASET OVERVIEW
+----------------------------------------------------------------------
+Total Records                 : 650
+Total Columns                 : 11
+Memory Usage Mb               : 0.22454452514648438
+Missing Values                : 750
+Duplicate Rows                : 0
+Numeric Columns               : 6
+Categorical Columns           : 5
+Unique Books                  : 650
+Unique Authors                : 16
+Unique Genres                 : 11
+
+3. TOP 10 GENRES
+----------------------------------------------------------------------
+ 1. Unknown                                     150 ( 23.1%)
+ 2. History                                      63 (  9.7%)
+ 3. Science                                      61 (  9.4%)
+ 4. Romance                                      53 (  8.2%)
+ 5. Mystery                                      51 (  7.8%)
+ 6. Biography                                    50 (  7.7%)
+ 7. Sci-Fi                                       49 (  7.5%)
+ 8. Thriller                                     44 (  6.8%)
+ 9. Fiction                                      44 (  6.8%)
+10. Self-Help                                    43 (  6.6%)
+
+4. TOP 10 AUTHORS (by book count)
+----------------------------------------------------------------------
+ 1. Malcolm Gladwell                             53 books
+ 2. Agatha Christie                              47 books
+ 3. F. Scott Fitzgerald                          46 books
+ 4. George R.R. Martin                           46 books
+ 5. Arthur Conan Doyle                           45 books
+ 6. Dan Brown                                    45 books
+ 7. Margaret Atwood                              43 books
+ 8. Ernest Hemingway                             41 books
+ 9. Stephen King                                 40 books
+10. Jane Austen                                  39 books
+
+======================================================================
+END OF REPORT
+======================================================================
